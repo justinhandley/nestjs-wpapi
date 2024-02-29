@@ -2,7 +2,7 @@ repo_name: justinhandley/nestjs-wpapi
 report_id: 55494ad9549db597ff327b33333c861f
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:23:36+00:00'
+timestamp: '2024-02-29T18:04:40+00:00'
 requested_by: ntegral
 provider: github
 branch: master
@@ -93,7 +93,7 @@ tools:
   last_updated_by: Dexter Hardy
   last_updated_on: 2019-12-28 05:37:09.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.19.1
   license: MIT
